@@ -1,6 +1,4 @@
-//comment for commit
-trigger:
-- '*'
+trigger: - '*'
 
 variables:
   buildConfiguration: 'Release'
