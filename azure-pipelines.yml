@@ -1,6 +1,5 @@
-//commit comment
 trigger:
-- '*'
+  - '*'
 
 variables:
   buildConfiguration: 'Release'
