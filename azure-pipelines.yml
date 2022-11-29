@@ -1,4 +1,5 @@
-trigger: - '*'
+trigger: 
+- '*'
 
 variables:
   buildConfiguration: 'Release'
